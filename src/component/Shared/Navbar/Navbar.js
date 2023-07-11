@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <div className="navbar bg-base-100">
       <div className="flex-1">
-        <a className="btn btn-ghost normal-case text-xl">daisyUI</a>
+        <a className="btn btn-ghost normal-case text-xl">Hlw Media</a>
       </div>
       <div className="flex-none">
         <div className="dropdown dropdown-end">
@@ -44,8 +44,8 @@ const Navbar = () => {
           <label tabIndex={0} className="btn btn-ghost btn-circle avatar">
             <div className="w-10 rounded-full">
               <img
-                src="/images/stock/photo-1534528741775-53994a69daeb.jpg"
-                alt="Avatar"
+                src="https://scontent.fdac19-1.fna.fbcdn.net/v/t39.30808-1/358608611_3543955512592628_6554928721971659591_n.jpg?stp=dst-jpg_p240x240&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_ohc=aHcdYkMYLWIAX8ECL5u&_nc_ht=scontent.fdac19-1.fna&oh=00_AfDSSZ7ImrJQxku_xw5lULGOlWyFDI-GXaQocOKC2xJ1DQ&oe=64B2B6C8"
+                alt=""
               />
             </div>
           </label>
